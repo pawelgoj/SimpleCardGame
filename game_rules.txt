@@ -1,0 +1,21 @@
+
+Zasady:
+    1. Gracz losuje 4 karty
+    2. Cztery typy kart:
+    
+        1.Król 
+        2.Żmija
+        3.Kret 
+        4.Mysz
+        
+    3. Talia kart składa się z 4 kart każdego typu (łącznie 16 krat dla gracza i komputera). 
+        
+    4. Punktacja wyników:
+        4 punkty - 4 takie same karty, max 
+        3 punkty - 3 takie same kart 
+        2 punkty - 2 x 2 dwie takie same karty 
+        1 punkt - 2 takie same karty 
+        
+    5. Gracz może wymienić dowolną ilość kart po rozdaniu 
+    6. Po ewentualnej wymianie gracz zgaduje kto ma więcej punktów on, czy przeciwnik. Jak zgadnie dostaje 1 punkt 
+    7. Gra trwa 5 tur jeśli gracz zgadł przynajmniej 3 razy poprawnie wygrywa.

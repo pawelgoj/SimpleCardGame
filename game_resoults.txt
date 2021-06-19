@@ -1,0 +1,5 @@
+2021-06-06 20:03:50.432910 gracz zgadnął 1 na 5 wyników i nie wygrał. 
+2021-06-06 20:07:27.683312 gracz zgadnął 4 na 5 wyników i wygrał. 
+2021-06-06 20:10:50.911031 gracz zgadnął 4 na 5 wyników i wygrał. 
+2021-06-18 21:38:52.939529 gracz zgadnął 4 na 5 wyników i wygrał. 
+2021-06-19 09:22:29.378026 gracz zgadnął 4 na 5 wyników i wygrał. 
