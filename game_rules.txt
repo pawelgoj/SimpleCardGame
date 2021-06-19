@@ -18,4 +18,4 @@ Zasady:
         
     5. Gracz może wymienić dowolną ilość kart po rozdaniu 
     6. Po ewentualnej wymianie gracz zgaduje kto ma więcej punktów on, czy przeciwnik. Jak zgadnie dostaje 1 punkt 
-    7. Gra trwa 5 tur jeśli gracz zgadł przynajmniej 3 razy poprawnie wygrywa.
+    7. Gra trwa 5 tur jeśli gracz zgadł przynajmniej 3 razy poprawnie wygrywa jeśli nie to przegrywa. 
